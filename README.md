@@ -40,10 +40,10 @@ information via Geocode, created modals with animal information with props and s
 
 
 ## Education
-**University Of Washington, Seattle, WA**  
+**Bootcamp Certificate: University of Washington, Seattle, WA**  
 A 12-week coding intensive, equipping their students with the skills to be a competitive Full-Stack Developer
 
-**Syracuse University, Syracuse, NY**  
+**Syracuse University: Bachelor of Fine Arts in Musical Theatre (Magna Cum Laude) – May 2013**  
 - Syracuse University Dean’s Lists – 3.62/4.0 GPA
 - Syracuse University Founder’s Scholarship
 - National Society of Collegiate Scholars | Golden Key International Honor Scholars
